@@ -1,4 +1,4 @@
-### Oi, Meu nome é Eduardo 👋
+### Oi, Eduardo Trindade aqui 👋
 Eu sou um analista de dados iniciante apaixonado por transformar números em insights significativos. Meu foco principal é utilizar minhas habilidades em Excel e SQL para analisar e visualizar dados de maneira eficaz. 
 #### Habilidades e Conhecimentos
 - **Excel**: Tenho sólida experiência em Excel, incluindo fórmulas e funções avançadas, tabelas dinâmicas, *Dashboards* e gráficos para análise de dados, *Power Query*, *Power Pivot*.
