@@ -1,5 +1,5 @@
 ### Oi, Meu nome é Eduardo 👋
- Estou em transição de carreira e pretendo me tornar um futuro **Análista de Dados**
+Eu sou um analista de dados iniciante apaixonado por transformar números em insights significativos. Meu foco principal é utilizar minhas habilidades em Excel e SQL para analisar e visualizar dados de maneira eficaz.
 - 📝 Estudando atualmente **SQL**
 - 📘 Possuo conhecimentos em **Microsoft Excel** {Fórmulas, Funções: (SomarProduto, Funções Matriciais, Filtro, Procx, Índice e Corresp) , Tabela Dinâmica, **Dashboards**, Macros, Formatação Condicional, **Power Query**, **Power Pivot**}
 - Atualmente focado em:
