@@ -7,7 +7,7 @@ Eu sou um analista de dados iniciante apaixonado por transformar números em ins
 - **Visualização de Dados**: Tenho conhecimento em ferramentas de visualização de dados como Power BI e Tableau para criar visualizações interativas e relatórios dinâmicos.  
 
 ### Atualmente focado em:
-<img width='50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
+<img width='50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+          
                  
           
