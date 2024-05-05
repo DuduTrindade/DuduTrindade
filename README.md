@@ -1,12 +1,14 @@
-### Oi, Eduardo Trindade aqui 👋
-Eu sou um analista de dados iniciante apaixonado por transformar números em insights significativos. Meu foco principal é utilizar minhas habilidades em Excel e SQL para analisar e visualizar dados de maneira eficaz. 
-#### Habilidades e Conhecimentos
-- **Excel**: Tenho sólida experiência em Excel, incluindo fórmulas e funções avançadas, tabelas dinâmicas, *Dashboards* e gráficos para análise de dados, *Power Query*, *Power Pivot*.
-- **SQL**: Sou capaz de escrever consultas SQL para extrair, manipular e analisar dados de bancos de dados relacionais.
-- **Análise de Dados**: Posso limpar, transformar e visualizar dados para identificar tendências e padrões significativos.
-- **Visualização de Dados**: Tenho conhecimento em Power BI para criar visualizações interativas e relatórios dinâmicos.
-  
-Atualmente focado em:
+### Oi, Tudo bem? 👋
+Olá! 👋 Meu nome é Eduardo e sou um entusiasta de análise de dados em busca de oportunidades para me tornar um analista de dados profissional. Estou dedicando meu tempo e energia para aprimorar minhas habilidades e conhecimentos nesta emocionante área. 
+
+Meu objetivo é me tornar um analista de dados qualificado e contribuir para solucionar problemas reais por meio da análise de dados. Estou comprometido em aprender continuamente e aplicar meus conhecimentos em projetos práticos que agreguem valor.
+
+Estou trabalhando em projetos pessoais para aplicar o que aprendo em situações do mundo real. Você pode encontrar alguns dos meus projetos em meu perfil do GitHub.
+
+Estou sempre aberto para networking e oportunidades de aprendizado, então sinta-se à vontade para se conectar comigo!
+
+#### Atualmente focado em:
+
 <div>
     <img width='50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />      
 </div>   
