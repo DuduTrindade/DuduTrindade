@@ -11,7 +11,7 @@ Estou sempre aberto para networking e oportunidades de aprendizado, então sinta
 
 <div>
    &nbsp;&nbsp; <img width='50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height = '50' src="https://github.com/DuduTrindade/DuduTrindade/assets/76738512/e0c36009-0859-47ea-85ec-5f6ecd10c14a" />&nbsp;&nbsp;
+   &nbsp;&nbsp;<img width='50' height = '50' src="https://github.com/DuduTrindade/DuduTrindade/assets/76738512/e0c36009-0859-47ea-85ec-5f6ecd10c14a" />&nbsp;&nbsp;
 </div>   
 
 ##
