@@ -9,7 +9,7 @@ Estou sempre aberto para networking e oportunidades de aprendizado, então sinta
 
 #### Atualmente focado em:
 <div>
- <img align="center" width='50' height = '50' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/sql.png"/>
+ <img align="center" width='50' height = '55' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/sql.png"/>
  <img align="center" width='50' height = '50' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/excel.jpeg"/>
 </div>   
 
