@@ -10,8 +10,8 @@ Estou sempre aberto para networking e oportunidades de aprendizado, então sinta
 #### Atualmente focado em:
 
 <div>
-   <img width='80' height = '40' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/sql.png" />
-   <img width='40' height = '40' src="https://github.com/DuduTrindade/DuduTrindade/assets/76738512/e0c36009-0859-47ea-85ec-5f6ecd10c14a" />
+   <img align="center" width='80' height = '40' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/sql.png" />
+   <img align="center" width='40' height = '40' src="https://github.com/DuduTrindade/DuduTrindade/assets/76738512/e0c36009-0859-47ea-85ec-5f6ecd10c14a" />
 </div>   
 
 ##
