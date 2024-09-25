@@ -8,7 +8,6 @@ Estou trabalhando em projetos pessoais para aplicar o que aprendo em situações
 Estou sempre aberto para networking e oportunidades de aprendizado, então sinta-se à vontade para se conectar comigo!
 
 #### Atualmente focado em:
-
 <div>
  <img align="center" width='80' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/sql.png"/>
  <img align="center" width='55' height = '55' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/excel.jpeg"/>
