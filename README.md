@@ -8,8 +8,9 @@ Estou trabalhando em projetos pessoais para aplicar o que aprendo em situações
 Estou sempre aberto para networking e oportunidades de aprendizado, então sinta-se à vontade para se conectar comigo!
 
 #### Principais Ferramentas:
-<div style="display: inline_block">
- <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/SQL.png"/>&nbsp;&nbsp;
+<div style="display: inline-block">
+ <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/SQL.png"/>&nbsp;
+ <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Excel.png"/>;&nbsp
  <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Excel.png"/>
 </div>   
 
