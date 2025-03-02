@@ -10,8 +10,8 @@ Estou sempre aberto para networking e oportunidades de aprendizado, então sinta
 #### Principais Ferramentas:
 <div style="display: inline-block">
  <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/SQL.png"/>&nbsp;
- <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Excel.png"/>;&nbsp
- <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Excel.png"/>
+ <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Excel.png"/>&nbsp
+ <img align="center" width='45' height = '45' src="https://github.com/DuduTrindade/DuduTrindade/blob/main/Power%20BI.png"/>
 </div>   
 
 ##
